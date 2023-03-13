@@ -1,0 +1,7 @@
+/parsers/results/*
+!/parsers/results/.gitkeep
+
+/parsers/config.php
+
+/bin/vendor/
+/parsers/vendor/
